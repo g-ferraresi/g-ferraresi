@@ -15,4 +15,4 @@ I work on statistical modelling, machine learning and optimization, turning data
 - **[ICT investment & employment](https://github.com/g-ferraresi/ict-investment-employment-oecd)** — panel data, fixed effects, 19 OECD countries (R)
 - **[Out-of-pocket health expenditure](https://github.com/g-ferraresi/oop-health-expenditure-statistical-learning)** — LASSO, best subset selection, GAMs (R)
 
-📍 Brescia, Italy · [LinkedIn](https://www.linkedin.com/in/gabriele-ferraresi-934282325) · [gabriele.ferraresi2002@gmail.com](mailto:gabriele.ferraresi2002@gmail.com)
+📍 Brescia, Italy · [LinkedIn](https://www.linkedin.com/in/gabriele-ferraresi) · [gabriele.ferraresi2002@gmail.com](mailto:gabriele.ferraresi2002@gmail.com)
